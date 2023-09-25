@@ -34,6 +34,7 @@ header{
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    text-decoration: none;
 }
 
 .pages ul li::after {

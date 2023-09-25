@@ -114,11 +114,7 @@
   z-index: -1;
 }
 
-/* .vector2{
-  position: absolute;
-  right: 1184px;
-  top: 270px;
-} */
+
 
 .vector1{
   position: absolute;
@@ -244,11 +240,7 @@
   /* position: relative; */
 }
 
-/* .lorem-container img:last-child{
-  position: absolute;
-  right: -220px;
-  bottom: -40px;
-} */
+
 
 .lorem-text{
   display: flex;
@@ -343,15 +335,9 @@
   padding: 0 123px;
   gap: 180px;
   margin-bottom: 248px;
-  /* position: relative; */
 }
 
-/* .lorem-container3 img:last-child{
-  position: absolute;
-  right: 0px;
-  bottom: -40px;
-  z-index: -1;
-} */
+
 
 .happy3{
   display: flex;
