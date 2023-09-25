@@ -45,10 +45,7 @@ header{
     position: absolute;
     left: -9px;
     top: -2px;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+   
 }
 
 .pages ul li a{
@@ -74,10 +71,7 @@ header{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    
 }
 
 /* FOOTER */
