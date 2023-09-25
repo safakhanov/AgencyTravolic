@@ -1,0 +1,7 @@
+.pages ul li:nth-child(3){
+  position: relative;
+}
+
+.pages ul li:nth-child(3) a {
+    color: #1090cb;
+}
